@@ -3318,7 +3318,7 @@ input.b-orange {
     position: absolute;
     top: 65px;
     right: 20px;
-    width: 200px;
+    width: 140px;
     padding: 10px;
     color: #fff;
     font-size: 20px;
@@ -4234,7 +4234,7 @@ box-sizing: border-box;
 微信文章样式
 */
 .weui-content{
-     padding: 20px 16px 26px;
+     padding: 20px 16px 12px;
      padding-top: 32px;
      word-wrap: break-word;
      position: relative;
