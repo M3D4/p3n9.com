@@ -17,10 +17,10 @@
 ```
 ## 刷新缓存
 ```
-https://cdn.jsdelivr.net/
+//cdn.jsdelivr.net/
 ```
 替换成
 ```
-https://purge.jsdelivr.net/
+//purge.jsdelivr.net/
 ```
 即可实时刷新
