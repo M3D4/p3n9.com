@@ -15,3 +15,12 @@
 ```bash
 //cdn.jsdelivr.net/gh/user/repo@master/file.js
 ```
+## 刷新缓存
+```
+https://cdn.jsdelivr.net/
+```
+替换成
+```
+https://purge.jsdelivr.net/
+```
+即可实时刷新
